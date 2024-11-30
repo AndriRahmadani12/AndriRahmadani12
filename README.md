@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&width=435&lines=Hey!+I'm+[Your+Name]👋;AI+Engineer+%7C+NLP+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&width=435&lines=Hey!+I'm+Andri Rahmadani👋;AI+Engineer+%7C+NLP+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[yourusername]&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AndriRahmadani12&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 # 🧠 AI Engineer | 🤖 NLP Specialist | 📊 Data Scientist
@@ -31,10 +31,9 @@ Passionate AI Engineer with expertise in Natural Language Processing, Deep Learn
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+
 
 ### 🗃️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -63,16 +62,9 @@ Passionate AI Engineer with expertise in Natural Language Processing, Deep Learn
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yourusername]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndriRahmadani12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriRahmadani12&theme=radical" alt="GitHub Streak" />
 </div>
-
-## 🏆 Achievements
-
-- 🥇 Published research papers in top-tier AI conferences
-- 🎓 Multiple certifications in AI/ML from leading institutions
-- 🌟 Contributed to open-source NLP projects
-- 🏆 Won several AI/ML hackathons
 
 ## 📚 Latest Blog Posts
 
@@ -89,13 +81,7 @@ Passionate AI Engineer with expertise in Natural Language Processing, Deep Learn
   <a href="https://linkedin.com/in/[yourprofile]">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/[yourprofile]">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@[yourprofile]">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:[youremail]@gmail.com">
+  <a href="mailto:andrirahmadani011202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
