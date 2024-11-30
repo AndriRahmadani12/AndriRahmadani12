@@ -69,10 +69,7 @@ Passionate AI Engineer with expertise in Natural Language Processing, Deep Learn
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Transformer Architecture](link)
-- [Implementing BERT for Text Classification](link)
-- [Advanced NLP Techniques for 2024](link)
-- [The Future of AI: Trends and Predictions](link)
+- [Inference Llama-3.1-Nemotron-70B-Instruct with VLLM and FastAPI: An In-Depth Guide](https://www.andrirahmadani.my.id/2024/10/deploying-llama-31-70b-nemotron-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
